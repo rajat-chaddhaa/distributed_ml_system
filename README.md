@@ -1,4 +1,4 @@
-# Create for Assignment 1 - Virtualization and Cloud Computing
+# Created for Assignment 1 - Virtualization and Cloud Computing
 # Distributed ML System using Microservices
 
 This assignment implements a distributed microservice-based image classification system using multiple virtual machines.
